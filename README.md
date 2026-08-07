@@ -16,3 +16,5 @@ A 3D printable scale model of ecolog 590G.
 <h1>DOWNLOAD LINK</h1><br>
 Printables: https://www.printables.com/model/1802277-ecolog-590g-scale-model <br>
 Onshape: https://cad.onshape.com/documents/41af54457c0416f189f924c2/w/ffba51785aba2b060bf95efd/e/180892eb14691961af913f38?renderMode=1&uiState=6a7557bd76d0cb9b8edc418d
+
+<img width="1110" height="738" alt="Screenshot 2026-08-06 224935" src="https://github.com/user-attachments/assets/20cdd682-1fed-43c5-80b6-a9a6f602c23d" />
