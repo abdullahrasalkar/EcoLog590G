@@ -1,2 +1,18 @@
 # EcoLog590G
 <B><CENTER><h1>A 3D PRINTABLE SCALE MODEL OF ECOLOG 590G</h1></CENTER></B>
+A 3D printable scale model of ecolog 590G.
+
+<b>PRINT SETTINGS</b><br>
+<ul>
+<li>Filament: PLA<br></li>
+<li>Infill density: 50%<br></li>
+<li>Infill pattern: grid<br></li>
+<li>Supports: enabled(tree)<br></li>
+<li>Layer height: 0.2mm<br></li>
+<li>Nozzle: 0.4mm<br></li>
+<li>Speed: 150mm/s</li>
+</ul>
+
+<h1>DOWNLOAD LINK</h1><br>
+Printables: https://www.printables.com/model/1802277-ecolog-590g-scale-model <br>
+Onshape: https://cad.onshape.com/documents/41af54457c0416f189f924c2/w/ffba51785aba2b060bf95efd/e/180892eb14691961af913f38?renderMode=1&uiState=6a7557bd76d0cb9b8edc418d
