@@ -1,6 +1,14 @@
 # EcoLog590G
 <B><CENTER><h1>A 3D PRINTABLE SCALE MODEL OF ECOLOG 590G</h1></CENTER></B>
-A 3D printable scale model of ecolog 590G.
+A 3D printable scale model inspired by  ecolog 590G. It's a detailed construction vehicle it features a long articulated arm and the log cutter attachment. it has rotatable arms and the attachment is also rotatable. it can be printed in different parts and joined together using superglue. it has multicolour design. It is designed with precision.<br>
+
+<b>FEATURES:</b><br>
+<ul>
+  <li>fully 3d printed model</li>
+  <li>detailed articulated arm</li>
+  <li>multicolour design</li>
+  <li>multiple printed components assembled toghter</li>
+</ul>
 
 <b>PRINT SETTINGS</b><br>
 <ul>
