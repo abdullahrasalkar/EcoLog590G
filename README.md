@@ -26,3 +26,9 @@ Printables: https://www.printables.com/model/1802277-ecolog-590g-scale-model <br
 Onshape: https://cad.onshape.com/documents/41af54457c0416f189f924c2/w/ffba51785aba2b060bf95efd/e/180892eb14691961af913f38?renderMode=1&uiState=6a7557bd76d0cb9b8edc418d
 
 <img width="1110" height="738" alt="Screenshot 2026-08-06 224935" src="https://github.com/user-attachments/assets/20cdd682-1fed-43c5-80b6-a9a6f602c23d" />
+<h1><B>MAKE:</B></h1><BR>
+<img width="2706" height="1614" alt="ecolog make side" src="https://github.com/user-attachments/assets/7b009669-7892-4b2e-b2b3-3f30a7206f17" />
+<img width="2115" height="1293" alt="ecolog make side 2" src="https://github.com/user-attachments/assets/1fcbd852-9193-40d8-bae8-03603b4117f4" />
+
+
+
