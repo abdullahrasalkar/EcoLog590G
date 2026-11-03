@@ -3,7 +3,7 @@
 A 3D printable scale model inspired by  ecolog 590G. It's a detailed construction vehicle it features a long articulated arm and the log cutter attachment. it has rotatable arms and the attachment is also rotatable. it can be printed in different parts and joined together using superglue. it has multicolour design. It is designed with precision. It includes details like headlights, taillights, bumpers, tyres and indicators. it has chamfered sides and overhangs for reducing supports and print failure. You can even print it in colours if you want. Its tyres are also printed seprately so they can be attached later.<br>
 
 <h1>WHY I MADE THIS:</h1>
-I like making 3D printable scale model of vehicles and construction equipment . I made this to improve my cad skills like 
+I like making 3D printable scale model of vehicles and construction equipment . I made this to improve my cad skills I also wanted to make it realistic and detailed as real one.  
 
 <b>FEATURES:</b><br>
 <ul>
